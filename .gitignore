@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/demo/*.json
+/demo/*.txt
+/demo/*.csv
+/demo/spiders/quotes.py
+/quotes.json
