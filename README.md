@@ -5,7 +5,6 @@ This is the first experience on scrapy. This demo is used for collecting profess
 cd spiders
 scrapy crawl professor -o professors.json
 scrapy crawl ifaccept
-cd ../
 python extract.py 
 ```
 As for simple usage, extra modification may not add in the future.  
